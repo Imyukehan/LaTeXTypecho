@@ -5,7 +5,7 @@
  *
  * @package LaTeX
  * @author Khan
- * @version 1.0.0
+ * @version beta
  * @link https://me.khan.moe
  */
 class LaTeXTypecho_Plugin implements Typecho_Plugin_Interface
